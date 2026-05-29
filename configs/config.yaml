@@ -1,0 +1,13 @@
+batch_size: 64
+
+learning_rate: 0.001
+
+epochs: 10
+
+input_size: 784
+
+hidden_1: 128
+
+hidden_2: 64
+
+num_classes: 10
