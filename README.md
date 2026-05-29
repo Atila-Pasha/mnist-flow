@@ -56,7 +56,7 @@ The network used in this project is a fully connected neural network:
 # 📂 Project Structure
 
 ```text
-First_project/
+mnist-flow/
 │
 ├── data/
 │
@@ -108,9 +108,9 @@ Each image:
 Clone the repository:
 
 ```bash
-git clone https://github.com/username/First_project.git
+git clone https://github.com/Atila-Pasha/mnist-flow.git
 
-cd First_project
+cd mnist-flow
 ```
 
 Create a virtual environment:
